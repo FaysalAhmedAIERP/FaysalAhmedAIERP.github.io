@@ -1,0 +1,4 @@
+window.FAYSAL_SITE_CONFIG = {
+  youtubeUrl: "PASTE_YOUR_YOUTUBE_VIDEO_URL_HERE",
+  youtubeVideoId: "PASTE_YOUR_YOUTUBE_VIDEO_ID_HERE"
+};
